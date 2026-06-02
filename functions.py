@@ -595,7 +595,8 @@ Output:
 # 38. WAP to compare numbers using only positional args
 # 39. WAP to calculate average using only positional args
 # 40. WAP to print student marks using only positional args
-
+`  \
+`
 
 # =========================================================
 # ONLY KEYWORD ARGUMENTS (*)
